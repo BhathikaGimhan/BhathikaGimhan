@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhathika Gimhan</h1>
 <h3 align="center">A Visionary Full Stack Developer from the Heart of Sri Lanka, Crafting Seamless Digital Experiences with Passion and Precision</h3>
-
+<img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhathikagimhan&label=Profile%20views&color=0e75b6&style=flat" alt="bhathikagimhan" /> </p>
 
 - 🔭 I’m currently working on [freelancing](idea-drive.web.app)
