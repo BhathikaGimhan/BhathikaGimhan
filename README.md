@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [freelancing](idea-drive.web.app)
 
-- 🤝 I’m looking for help with [Idea Drive](idea-drive.web.app)
-
 - 👨‍💻 All of my projects are available at [bhathikagimhan.me](bhathikagimhan.me)
 
 - 💬 Ask me about **Laravel, React, Electron, Firebase**
