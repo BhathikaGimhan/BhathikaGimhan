@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [bhathikagimhan](https://bhathika-gimhan-portfolio.web.app/)
 
-- 💬 Ask me about **Laravel, React, Electron, Firebase**
+- 💬 Ask me about **Laravel, React, Electron, Firebase, NextJS, TailwindCSS**
 
 - 📫 How to reach me **bgmaduragoda@gmail.com**
 
