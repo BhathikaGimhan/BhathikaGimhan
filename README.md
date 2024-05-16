@@ -3,11 +3,11 @@
 <img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhathikagimhan&label=Profile%20views&color=0e75b6&style=flat" alt="bhathikagimhan" /> </p>
 
-- 🔭 I’m currently working on [freelancing](idea-drive.web.app)
+- 🔭 I’m currently working on [freelancing](https://idea-drive.web.app/)
 
-- 🤝 I’m looking for help with [Idea Drive](idea-drive.web.app)
+- 🤝 I’m looking for help with [Idea Drive](https://idea-drive.web.app/)
 
-- 👨‍💻 All of my projects are available at [bhathikagimhan.me](https://bhathika-gimhan-portfolio.web.app/)
+- 👨‍💻 All of my projects are available at [bhathikagimhan](https://bhathika-gimhan-portfolio.web.app/)
 
 - 💬 Ask me about **Laravel, React, Electron, Firebase**
 
