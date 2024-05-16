@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [Idea Drive](idea-drive.web.app)
 
-- 👨‍💻 All of my projects are available at [bhathikagimhan.me]([bhathikagimhan.me](https://bhathika-gimhan-portfolio.web.app/))
+- 👨‍💻 All of my projects are available at [bhathikagimhan.me](https://bhathika-gimhan-portfolio.web.app/)
 
 - 💬 Ask me about **Laravel, React, Electron, Firebase**
 
