@@ -5,7 +5,7 @@
 -->
 
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Bhathika Gimhan — Founder and Software Engineer at QT LabX" width="100%" />
+  <img src="assets/qt-labx-profile.gif" alt="Bhathika Gimhan — Founder and Software Engineer at QT LabX" width="100%" />
 </p>
 
 <p align="center">
